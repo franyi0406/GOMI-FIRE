@@ -184,7 +184,7 @@ margin-top:60px;
 <body>
 
 <header>
-<img src="Imagenes De Gomi Locas/gomifire.jpeg" class="logo">
+<img src="gomifire.jpeg" class="logo">
 <h1>🌶️ GomiFire</h1>
 <p>Dulces al principio… picositas al final 🔥</p>
 </header>
@@ -203,7 +203,7 @@ margin-top:60px;
 
 <div style="max-width:800px; margin:40px auto;">
 <video width="100%" controls>
-<source src="Imagenes De Gomi Locas/gomifire video.mp4" type="video/mp4">
+<source src="gomifire video.mp4" type="video/mp4">
 Tu navegador no soporta el video.
 </video>
 </div>
@@ -218,15 +218,15 @@ Tu navegador no soporta el video.
 
 <div class="productos">
 
-<div class="card"><img src="Imagenes De Gomi Locas/mix enchilado.jpeg"><h3>Mix enchilado</h3><p class="price">$20MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Panditas Enchilados.jpeg"><h3>Panditas enchilados</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Mix Enchilado De Regaliz.jpeg"><h3>Mix enchilado de regaliz</h3><p class="price">$20MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Picafresas.jpeg"><h3>Pica fresas</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/SWwinkles.jpeg"><h3>SKwinkles</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Manguitos.jpeg"><h3>Manguitos</h3><p class="price">$20MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Aros Enchilados.jpeg"><h3>Aros enchilados</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Lenguas Enchiladas.jpeg"><h3>Lenguas enchiladas</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Sandias Enchiladas.jpeg"><h3>Sandias enchiladas</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="mix enchilado.jpeg"><h3>Mix enchilado</h3><p class="price">$20MX</p></div>
+<div class="card"><img src="Panditas Enchilados.jpeg"><h3>Panditas enchilados</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Mix Enchilado De Regaliz.jpeg"><h3>Mix enchilado de regaliz</h3><p class="price">$20MX</p></div>
+<div class="card"><img src="Picafresas.jpeg"><h3>Pica fresas</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="SWwinkles.jpeg"><h3>SKwinkles</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Manguitos.jpeg"><h3>Manguitos</h3><p class="price">$20MX</p></div>
+<div class="card"><img src="Aros Enchilados.jpeg"><h3>Aros enchilados</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Lenguas Enchiladas.jpeg"><h3>Lenguas enchiladas</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Sandias Enchiladas.jpeg"><h3>Sandias enchiladas</h3><p class="price">$25MX</p></div>
 
 </div>
 
@@ -235,13 +235,13 @@ Tu navegador no soporta el video.
 
 <div class="productos">
 
-<div class="card"><img src="Imagenes De Gomi Locas/Panditas Con Azucar.jpeg"><h3>Panditas con azúcar</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Gomitas Diente .jpeg"><h3>Gomitas diente</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Gomitas Tiburon.jpeg"><h3>Gomitas tiburón</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Gusanos Dulces.jpeg"><h3>Gusanos dulces</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Panditas Normal.jpeg"><h3>Panditas normal</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Vasos De Gomita.jpeg"><h3>Vasos de gomitas</h3><p class="price">$15MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Brochetas De Gomitas.jpeg"><h3>Brochetas de gomitas</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Panditas Con Azucar.jpeg"><h3>Panditas con azúcar</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Gomitas Diente .jpeg"><h3>Gomitas diente</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Gomitas Tiburon.jpeg"><h3>Gomitas tiburón</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Gusanos Dulces.jpeg"><h3>Gusanos dulces</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Panditas Normal.jpeg"><h3>Panditas normal</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Vasos De Gomita.jpeg"><h3>Vasos de gomitas</h3><p class="price">$15MX</p></div>
+<div class="card"><img src="Brochetas De Gomitas.jpeg"><h3>Brochetas de gomitas</h3><p class="price">$15MX</p></div>
 
 </div>
 
